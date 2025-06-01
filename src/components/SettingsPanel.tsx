@@ -18,7 +18,7 @@ const PROVIDERS = {
   },
   groq: {
     name: "Groq",
-    models: ["llama-3.1-8b-instant", "mixtral-8x7b-32768", "gemma2-9b-it"],
+    models: ["llama-3.1-8b-instant", "mixtral-8x7b-32768", "gemma2-9b-it","deepseek-r1-distill-llama-70b"],
   },
   deepseek: {
     name: "DeepSeek",
